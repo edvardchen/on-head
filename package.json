@@ -1,7 +1,7 @@
 {
   "name": "on-head",
-  "version": "0.1.1",
-  "description": "listen before http response write head",
+  "version": "0.1.2",
+  "description": "Hook before http response send head",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
